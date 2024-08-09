@@ -108,7 +108,7 @@
 // }
 
 
-// -------------------------------------------------
+// ---------------------------------------------------------------
 // print x^n (stack height = n)
 public class Recursion2{
     public static void printFib(int a, int b, int n) {
